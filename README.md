@@ -4,7 +4,6 @@ This repository show the steps to follow to get started in maker-ng
 
 ## Mac Software CheckList
 - [ ] [Slack](https://slack.com/)
-- [ ] [Chrome](brew cask install google-chrome)
 - [ ] [HomeBrew](https://brew.sh/)
 - [ ] [LaunchRocket](https://github.com/jimbojsb/launchrocket)
 - [ ] [Git](https://git-scm.com/)
@@ -45,6 +44,7 @@ brew cask install google-chrome
  
 ## Join Organization
 - [ ] [GitHub](https://github.com/maker-ng)
-- [ ] [Slack](https://maker-ng.slack.com)
 - [ ] [GitLab](https://gitlab.com)
+- [ ] [Slack](https://maker-ng.slack.com)
+- [ ] [Trello](https://trello.com/b/X2Gp4EDz/ftl-oms)
 
