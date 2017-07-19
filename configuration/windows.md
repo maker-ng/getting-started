@@ -1,17 +1,14 @@
-# Getting Started
+# Windows Configuration
 
-This repository show the steps to follow to get started in maker-ng
-
-## Windows Software CheckList
+## Install basic SoftWares
 - [ ] [Slack](https://slack.com/)
-- [ ] [Chrome](brew cask install google-chrome)
 - [ ] [Git](https://git-scm.com/)
 - [ ] [WebStorm](https://www.jetbrains.com/webstorm/)
 - [ ] [Intellij](https://www.jetbrains.com/idea/)
 - [ ] [VSCode](https://code.visualstudio.com/docs/setup/setup-overview)
 - [ ] [Chocolatey](https://chocolatey.org/)
 
-## Development Tools
+## Install Tools
 ```bash
 # use chocolatey to install nodejs
 choco install nodejs 8.1.4
@@ -32,9 +29,3 @@ choco install VisualStudioCode 1.14.1
 # use chocolatey to install bash
 choco install git.install 2.13.3
 ``` 
-
-## Join Organization
-- [ ] [GitHub](https://github.com/maker-ng)
-- [ ] [Slack](https://maker-ng.slack.com)
-- [ ] [GitLab](https://gitlab.com)
-- [ ] [Trello](https://trello.com/b/X2Gp4EDz/ftl-oms)

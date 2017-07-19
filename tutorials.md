@@ -1,5 +1,9 @@
 # Tutorials
 
+## Awesome Sites
+- [EggHead](https://egghead.io/)
+- [CodeSchool](https://www.codeschool.com/)
+
 ## Web
 - [ ] [CodeSchool-HTML](https://www.codeschool.com/learn/html-css)
 - [ ] [CodeSchool-Javascript](https://www.codeschool.com/learn/javascript)
@@ -7,7 +11,7 @@
 
 ## Java
 - [ ] [Awesome-Java](https://github.com/akullpp/awesome-java)
-- [ ] [Spring]()
+- [ ] [Spring](https://spring.io/)
 
 ## Git
 - [ ] [Atlassian](https://www.atlassian.com/git/tutorials)
